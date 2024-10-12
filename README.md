@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Joycee!
+# 👋 Hey there! I'm Joycee
 
-👀 I'm passionate about data science, machine learning, and AI, with a focus on exploring new possibilities in these fields.
+👀 A Data Science Enthusiast with a passion for Machine Learning and AI, always exploring how these fields can unlock new possibilities.
 
 🌱 Currently, I’m deepening my skills in advanced data analysis, machine learning, and deep learning.
 
