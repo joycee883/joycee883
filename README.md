@@ -2,7 +2,7 @@
 
 👀 A Data Science Enthusiast with a passion for Machine Learning and AI, always exploring how these fields can unlock new possibilities.
 
-🌱 Currently, I’m deepening my skills in advanced data analysis, machine learning, and deep learning.
+🌱 Currently, I’m deepening my skills in Exploratory data analysis, machine learning, and GenAI.
 
 💞️ I’m open to collaborating on data science and machine learning projects. Some of my work includes Customer Churn Prediction, Breast Cancer Classification, GDP Data Analysis, IMDB Ratings Analysis, and more!
 
