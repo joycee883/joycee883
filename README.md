@@ -1,4 +1,4 @@
-# **                                                                                 👋 Hi, I'm Joycee!**
+# 👋 Hi, I'm Joycee!
 
 👀 I'm passionate about data science, machine learning, and AI, with a focus on exploring new possibilities in these fields.
 
