@@ -1,4 +1,4 @@
-👋 Hi, I’m @joycee883
+#                                                                            👋 Hi, I’m Joycee
 
 👀 I’m interested in data science, machine learning, and AI, particularly in exploring how AI can transform healthcare.
 
